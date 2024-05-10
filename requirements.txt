@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+lxml
+html5lib
+seaborn
+statsmodels
+scipy
+patsy
+scikit-learn
+beautifulsoup4
+streamlit
+selenium
